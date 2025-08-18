@@ -31,12 +31,12 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://camo.githubusercontent.com/2d2e17803356d0bb44f8e2db6e313154e7a921822ac923427f66db18f7d512e2/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a6d6c6e634778776358466b4e4859306554597964576c6b626d5a32616e4e784d6a637a6332343461444231615739745a6a6b784d535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f333977465465485236343234506a7738544f2f67697068792e77656270"  />
+  <img height="200" src="https://camo.githubusercontent.com/2d2e17803356d0bb44f8e2db6e313154e7a921822ac923427f66db18f7d512e2/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a6d6c6e634778776358466b4e4859306554597964576c6b626d5a32616e4e784d6a637a6332343461484231615739745a6a6b784d535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f333977465465485236343234506a7738544f2f67697068792e77656270"  />
 </div>
 
 ###
 
-<h3 align="left">Launguges</h3>
+<h3 align="left">Languages</h3>
 
 ###
 
@@ -144,9 +144,28 @@
 
 ###
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed12112000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed12112000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmed12112000&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ahmed12112000&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed12112000/ahmed12112000/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed12112000/ahmed12112000/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmed12112000/ahmed12112000/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
